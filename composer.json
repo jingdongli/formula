@@ -1,0 +1,19 @@
+{
+    "name": "jingdongli/formula",
+    "description": "rthis is a test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jingdongli",
+            "email": "1807996924@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
